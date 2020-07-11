@@ -66,4 +66,4 @@ Optionally you can specify an end date like so
 $ python betterthanmin/generate_report.py --start-date 2019-04-21 --end-date 2019-04-29
 ```
 
-Running the either of the commands above will generate the files `summary_report.csv` and `maintaince.csv`
+Running the either of the commands above will generate the files `summary_report.csv` and `maintenance.csv`
